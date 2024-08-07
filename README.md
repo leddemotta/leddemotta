@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ledilson, a passionate front end developer!
+## Hi there 👋, I'm Ledilson, a passionate Full Stack Developer!
 
 ## About me
 
