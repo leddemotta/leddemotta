@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Ledilson, a passionate front end developer!
+
 
 <!--
 **leddemotta/leddemotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
