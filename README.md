@@ -41,7 +41,7 @@ Beyond my professional experience, I possess a proactive approach to continuous 
 
 ● Project Management: SCRUM, Kanban, Jira, Trello, Slack, MeisterTask
 
-● Excellent problem-solving abilities
+<!--● Excellent problem-solving abilities
 
 ● Strong communication skills, both verbal and written
 
