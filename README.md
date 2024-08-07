@@ -11,9 +11,19 @@ As an experienced Senior Software Engineer with over 10 years of experience, I h
 
 Beyond my professional experience, I possess a proactive approach to continuous learning and skill improvement. I am committed to staying updated with the latest technologies and industry trends, ensuring that I can tackle new challenges and deliver innovative solutions. With a strong foundation in problem-solving, communication, and adaptability, I am well-equipped to contribute effectively to any team and drive impactful results.
 
-● Programming Languages: `JavaScript`, `PHP`
+● Programming Languages: 
 
-● Web Technologies: `HTML5`, `CSS3`, `SASS`, `SCSS`, `Tailwind`
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7) 
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) 
+
+● Web Technologies: 
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SCSS&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind&logoColor=1572B6)
 
 ● UI Design Tools: Figma, Photoshop
 
