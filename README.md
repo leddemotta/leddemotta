@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Ledilson, a passionate Full Stack Developer!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leddemotta/">Linked in</a>
-<a href="mailto:ledde.motta@gmail.com">Gmail</a>
+<a href="https://www.linkedin.com/in/leddemotta/"><img src="https://img.shields.io/badge/Ledilson%20Motta-0077B5?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"/></a>
+<a href="mailto:ledde.motta@gmail.com"><img src="https://img.shields.io/badge/ledde.motta@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" target="_blank"/></a>
 </p>
 
 ## About me
