@@ -7,9 +7,13 @@
 
 ## About me
 
-As an experienced Senior Software Engineer with over 10 years of experience, I have developed a strong proficiency in JavaScript (Vue), PHP, MySQL, and WordPress, specializing in front-end development and robust software solutions. 
+Hi, I’m Led 👋
 
-Beyond my professional experience, I possess a proactive approach to continuous learning and skill improvement. I am committed to staying updated with the latest technologies and industry trends, ensuring that I can tackle new challenges and deliver innovative solutions. With a strong foundation in problem-solving, communication, and adaptability, I am well-equipped to contribute effectively to any team and drive impactful results.
+I’m a Senior Software Engineer with 14+ years of experience building web platforms and solving real-world problems, and in recent years I’ve been deeply focused on AI-assisted development. I use tools like ChatGPT, Claude, and Gemini on a daily basis to speed up development, improve code quality, automate workflows, and make engineering work smarter—not just faster 🤖✨
+
+Most of my work lives around JavaScript, TypeScript, Vue.js, Node.js, PHP, and MySQL, and I really enjoy working across the whole product—architecture, performance, and user experience included.
+
+I enjoy turning ideas into reliable, scalable systems and collaborating with people who care about building things that actually work.
 
 ● Programming Languages: 
 
